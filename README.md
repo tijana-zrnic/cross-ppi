@@ -7,5 +7,5 @@
 
 <p>
 This repository contains self-contained notebooks for reproducing the experiments in the paper.<br>
-Cross-prediction will be implemented as part of the <code>ppi-py</code> package: <a href="https://github.com/aangelopoulos/ppi_py">check out the package here</a>!
+Cross-prediction has been implemented as part of the <code>ppi_py</code> package: <a href="https://github.com/aangelopoulos/ppi_py">check out the package here</a>!
 </p>
