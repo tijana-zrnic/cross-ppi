@@ -3,6 +3,7 @@
 
 <p align="center">
     <a style="text-decoration:none !important;" href="https://arxiv.org/abs/2309.16598" alt="arXiv"><img src="https://img.shields.io/badge/paper-arXiv-red" /></a>
+    <a style="text-decoration:none !important;" href="https://www.pnas.org/doi/10.1073/pnas.2322083121" alt="PNAS"><img src="https://img.shields.io/badge/paper-PNAS-blue" /></a>
 </p>
 
 <p>
